@@ -1,0 +1,3 @@
+insert into service_type values(1,"Car Repair and Services",1000),(2,"Car breakdown services",2000),(3,"Car accessory Services",3000),(4,"Car Cleaning Services",4000);
+
+insert into security_question(sq_question) values("Who is your favourite hero?"),("Which is your favourite food?"),("What is your favourite movie?");
